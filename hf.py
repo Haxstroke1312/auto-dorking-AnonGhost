@@ -16,12 +16,12 @@ GHT = '''
         +=======================================+
         |.........  Facebook Cracker   .........|
         +---------------------------------------+
-        |  Author : Banten Cyber Attacker Team  |
-        |         : Memberal_Force              |
+        |  Author : Silent_Anons                |
+        |         : AnonGhost 4 Evahhh          |
         |  										
 	      |  Tool ini hanya digunakan sebagai		  |
 	      |  pentesting. Jangan gukanan tool ini  |
-	      |  pada akAUN SESEORANG tanpa izin dari | 
+	      |  pada akaun seseorang tanpa izin dari | 
 	      |  pemilik akaun ! Segala Risiko atas   |
 	      |  penyalahgunaan Tool ini, Saya tidak  |
 	      |  bertanggungjawab!Use at your own risk|
